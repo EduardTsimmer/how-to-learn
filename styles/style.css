@@ -298,7 +298,7 @@ p{
 
 .feynman__subtitle_text{
   line-height: 51px;
-  font-size: 36x;
+  font-size: 36px;
   font-weight:normal;
 }
 
@@ -313,7 +313,7 @@ p{
   text-decoration: none;
   color: #2f80ed;
   line-height: 51px;
-  font-size: 36x;
+  font-size: 36xp;
   font-weight:normal;
 }
 
@@ -395,15 +395,6 @@ p{
   margin: 0;
   padding: 0;
 }
-
-.table__text_theme_dark{
-  line-height: 1.2px;
-  font-size: 18px;
-  font-weight:normal;
-  margin: 0;
-  padding: 0;
-}
-
 
 .table__text_theme_dark{
   line-height: 1.2;
