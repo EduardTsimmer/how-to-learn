@@ -120,7 +120,7 @@
   font-weight: normal;
   color: #2f80ed;
   margin: 0;
-  padding-right: 170px
+  padding-right: 170px;
 }
 
 .two-columns__paragraph{
@@ -420,7 +420,6 @@
   font-size: 18px;
   line-height: 25px;
   font-weight: normal;
-  margin: 0;
   padding: 0;
   margin: 18px 0 18px;
 }
