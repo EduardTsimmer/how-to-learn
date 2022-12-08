@@ -1,0 +1,7 @@
+.table__cell_theme_dark{
+  display: flex;
+  width: 200px;
+  margin-top: 80px;
+  padding: 0;
+  flex-direction: column;
+}
